@@ -1,7 +1,7 @@
 # Pewlett-Hackard Analysis
 
 ## Overview
-The purpose of our analysis is to determine how many current Pewlett-Hackard employees are nearing retirement age and determine how this "silver tsunami" will affect the PH workforce. We will break down retirement numbers by department, as well as identify cohorts of younger employees who might be good candidates for mentorship to help ease the transition.
+The purpose of our analysis is to determine how many current Pewlett-Hackard employees are nearing retirement age and determine how this "silver tsunami" will affect the PH workforce. We will break down retirement numbers by title, as well as identify cohorts of younger employees who might be good candidates for mentorship to help ease the transition.
 
 ## Results
 
@@ -16,7 +16,7 @@ The purpose of our analysis is to determine how many current Pewlett-Hackard emp
 
 ## Summary
 
-As the "silver tsunami" begins to make an impact P-H will have to fill as many as 90,398 positions to replace current employees who are nearing retirement age. While there are more than enough qualified, retirement-ready employees to mentor the next generation of P-H employees, there are far fewer candidates that meet the current eligibility requirements for the mentorship program. Recommendations for additional queries include:
+As the "silver tsunami" begins to make an impact Pewlett-Hackard will have to fill as many as 90,398 positions to replace current employees who are nearing retirement age. While there are more than enough qualified, retirement-ready employees to mentor the next generation of PH employees, there are far fewer candidates that meet the current eligibility requirements for the mentorship program. Recommendations for additional queries include:
 
 1. Expanding the criteria to include all employees born between 1961 and 1964 and seeing how that affects the number of employees eligible for the mentorship program
 2. Grouping the eligible candidates by title and comparing that to the Retiring Titles table to assess how the numbers of mentors and mentees align.
